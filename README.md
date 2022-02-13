@@ -16,8 +16,8 @@
 ### Connect with me:
 
 
-[[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dana-ghaddar-0175a7230/#gh-light-mode-only)
-[[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dana-ghaddar-0175a7230/#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/dana-ghaddar-0175a7230/#gh-light-mode-only)
+
 
 <br />
 ---
@@ -49,4 +49,4 @@
 
 </details>
 
-
+[linkedin]: https://www.linkedin.com/in/dana-ghaddar-0175a7230/
