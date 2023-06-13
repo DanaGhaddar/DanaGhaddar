@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning how to become a good developer🤣
 - 👯 I’m looking to become an advanced developer
-- 🥅 2022 Goals: Learn more about Web Development and Mobile Applications
+- 🥅 2023 Goals: Learn more about Web Development and Mobile Applications
 - ⚡ Fun fact: I am a gymnast/gymnastics coach.
 
 ---
